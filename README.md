@@ -4,6 +4,7 @@
 * Edad: **40**
 * Estado Civil: **Casado**
 * Hijos: **3**
+* Ocupacion: Analista de conteo (Empresa Bosch)
 ## Lenjuages de programación preferidos
 * JavaScript
 * Python
