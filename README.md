@@ -1,5 +1,5 @@
 # Adan Mauricio Fernandez
-![] (./img/yo.jpg)
+![Foto perfil Mauro](https://github.com/user-attachments/assets/484a253d-bb83-45d0-a1e1-8101ebe272ed)
 ## Datos Personales
 * Edad: **40**
 * Estado Civil: **Casado**
